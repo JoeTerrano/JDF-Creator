@@ -1,0 +1,5 @@
+{
+  "name": "Gemini JDF Creator",
+  "description": "An intelligent tool that analyzes uploaded PDF files using Gemini to automatically generate Job Definition Format (JDF) files for print production workflows.",
+  "requestFramePermissions": []
+}
